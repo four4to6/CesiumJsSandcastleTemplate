@@ -28,7 +28,7 @@ You can also use the latest CesiumJs version by including it in index.html.
 
 ## Example
 
-<script async src="//jsfiddle.net/8vy53mcg/embed/result,js/"></script>
+https://jsfiddle.net/8vy53mcg/
 
 ## 著作・出典 等
 
