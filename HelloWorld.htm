@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Use correct character set. -->
+  <meta charset="utf-8">
+  <!-- Tell IE to use the latest, best version. -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!-- Make the application on mobile take up the full browser screen and disable user scaling. -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+  <title>CesiumJs Hello World</title>
+  <!-- Include the CesiumJS JavaScript and CSS files -->
+  <link rel="stylesheet" href="https://sandcastle.cesium.com/templates/bucket.css">
+  <script src="https://sandcastle.cesium.com/CesiumUnminified/Cesium.js"></script>
+  <script src="https://sandcastle.cesium.com/Sandcastle-header.js"></script>
+  <!-- <script src="https://cesium.com/downloads/cesiumjs/releases/1.112/Build/Cesium/Cesium.js"></script>
+    <link href="https://cesium.com/downloads/cesiumjs/releases/1.112/Build/Cesium/Widgets/widgets.css" rel="stylesheet"> -->
+</head>
+<body>
+  <div id="cesiumContainer" class="fullSize"></div>
+  <div id="loadingOverlay">
+    <h1>Loading...</h1>
+  </div>
+  <div id="toolbar"> </div>
+  <script>
+    // Cesium.Ion.defaultAccessToken = "your access token";
+    const viewer = new Cesium.Viewer('cesiumContainer', {});
+  </script>
+</body>
+</html>
