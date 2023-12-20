@@ -18,13 +18,13 @@ https://www.apache.org/licenses/LICENSE-2.0
 
 use your Cesium Ion access token.
 
-Include the following files in index.html.
+Include the following files in HelloWorld.htm.
 
 * bucket.css
 * Sandcastle-header.js
 * CesiumUnminified/Cesium.js
 
-You can also use the latest CesiumJs version by including it in index.html.
+You can also use the latest CesiumJs version by including it in HelloWorld.htm.
 
 ## Example
 
