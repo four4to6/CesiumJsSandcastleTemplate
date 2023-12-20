@@ -28,7 +28,7 @@ You can also use the latest CesiumJs version by including it in HelloWorld.htm.
 
 ## Example
 
-&lt;script async src=&quot;//jsfiddle.net/8vy53mcg/embed/result,js/&quot;&gt;&lt;/script&gt;
+https://jsfiddle.net/8vy53mcg/
 
 ## 著作・出典 等
 
