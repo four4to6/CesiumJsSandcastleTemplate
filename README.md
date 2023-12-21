@@ -18,6 +18,8 @@ https://www.apache.org/licenses/LICENSE-2.0
 
 use your Cesium Ion access token.
 
+**CesiumJS Sandcastle Template requires an access token.**
+
 Include the following files in HelloWorld.htm.
 
 * bucket.css
