@@ -41,3 +41,5 @@ https://sandcastle.cesium.com/
 ### PLATEAU配信サービス（試験運用）-チュートリアル:
 https://github.com/Project-PLATEAU/plateau-streaming-tutorial
 
+### Rotate globe in cesium map - Stack Overflow
+https://stackoverflow.com/questions/69136253/rotate-globe-in-cesium-map
